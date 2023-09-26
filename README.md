@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello Everyone! 👋
+
+<p align="center">
+	<a href="https://github.com/burjoawl"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/farhan-salimuddin"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href=""><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+</p>
 
 <!--
 **burjoawl/burjoawl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
