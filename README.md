@@ -1,9 +1,11 @@
 <h1 align="center">
-Hello! | Halo!
+Hello!
 </h1>
 
 <p align="center">
-My name is Farhan and I'm a Geologist and a Data Scientist.
+My name is Farhan, I'm a Geologist🌏 and a Data Scientist📝. <br>
+Currently improving the appearance of my Github and I'm also looking for work. <br>
+You can check my portofolio below 👇
 </p>
 
 <p align="center">
@@ -22,6 +24,9 @@ My name is Farhan and I'm a Geologist and a Data Scientist.
     + [Lithium Ion](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Assignments/Lithium%20Ion)
 	+ [TDS Landfill](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Assignments/TDS%20Landfill)
 	+ [The Look](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Assignments/The%20Look)
+- Side Project
+	+ [Discord Bot](https://github.com/burjoawl/Discord_Bot)
+
 
 ---
 <!--
