@@ -3,7 +3,7 @@ Hello!
 </h1>
 
 <p align="center">
-My name is Farhan, I'm a Geologist🌏 and a Data Scientist📝. <br>
+My name is Farhan, I'm a Data Scientist📝. <br>
 Currently improving the appearance of my Github and I'm also looking for work. <br>
 You can check my portofolio below 👇
 </p>
