@@ -12,10 +12,12 @@ You can check my portofolio below 👇
 	<a href="https://github.com/burjoawl"><img src="https://img.shields.io/badge/GitHub-636e72" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/farhan-salimuddin"><img src="https://img.shields.io/badge/LinkedIn-0984e3" alt="LinkedIn"></a>
 	<a href="https://burjoawl.github.io/cv"><img src="https://img.shields.io/badge/Curriculum Vitae-8A2BE2" alt="Curriculum Vitae"></a>
+	<a href="https://unsplash.com/@farhnsalimuddin"><img src="https://img.shields.io/badge/Unsplash-000" alt="Unsplash"></a>
 </p>
 
 ## [Portofolio](https://github.com/burjoawl/Burrs_Portofolio)
 - [Projects](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Projects)
+	+ [Prosper Loan](https://github.com/burjoawl/H8-TalentFairV7-ProsperLoanDataset)
 	+ [Jakarta Flood](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Projects/Jakarta%20Flood)
 	+ [Windows Store](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Projects/Windows%20Store)
 - [Some Assignment](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Assignments)
@@ -28,7 +30,7 @@ You can check my portofolio below 👇
 	+ [Discord Bot](https://github.com/burjoawl/Discord_Bot)
 
 
----
+
 <!--
 **burjoawl/burjoawl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
