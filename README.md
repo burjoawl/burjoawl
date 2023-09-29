@@ -15,7 +15,11 @@ You can check my portofolio below 👇
 	<a href="https://unsplash.com/@farhnsalimuddin"><img src="https://img.shields.io/badge/Unsplash-000?style=flat-square" alt="Unsplash"></a>
 </p>
 
-## [Portofolio](https://github.com/burjoawl/Burrs_Portofolio)
+<details>
+<summary>
+  <a href="https://github.com/burjoawl/Burrs_Portofolio">Portofolio</a>
+</summary>
+
 - [Projects](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Projects)
 	+ [Prosper Loan](https://github.com/burjoawl/H8-TalentFairV7-ProsperLoanDataset)
 	+ [Jakarta Flood](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Projects/Jakarta%20Flood)
@@ -29,7 +33,7 @@ You can check my portofolio below 👇
 - Side Project
 	+ [Discord Bot](https://github.com/burjoawl/Discord_Bot)
 
-
+</details>
 
 <!--
 **burjoawl/burjoawl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
