@@ -8,7 +8,7 @@ Welcome!
 
 
 </br>
-<img hight="500" width="300" alt="GIF" align="right" src="assets/2.gif">
+<img hight="500" width="300" alt="GIF2" align="right" src="assets/2.gif">
 </br>
 </br>
 </br>
