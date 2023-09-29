@@ -19,6 +19,7 @@
 	My name is Farhan, I'm a Data Scientist📝. <br>
 	I'm From Indonesia and currently stay in Jakarta. <br>
 	Geologist - Junior Data Scientist
+
 </br>
 </br>
 </br>
