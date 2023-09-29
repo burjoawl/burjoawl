@@ -10,17 +10,18 @@
 
 
 </br>
-<img hight="500" width="300" alt="GIF2" align="right" src="assets/love.gif">
+<p>
+	<img hight="500" width="300" alt="GIF2" align="right" src="assets/love.gif">
 </br>
 </br>
 </br>
 </br>
 </br>
-<font size="5">
-My name is Farhan, I'm a Data Scientist📝. <br>
-I'm From Indonesia and currently stay in Jakarta. <br>
-Geologist - Junior Data Scientist - Gamers <br>
-</font>
+	<font size="5">
+	My name is Farhan, I'm a Data Scientist📝. <br>
+	I'm From Indonesia and currently stay in Jakarta. <br>
+	Geologist - Junior Data Scientist - Gamers <br>
+	</font>
 
 </br>
 </br>
@@ -29,6 +30,7 @@ Geologist - Junior Data Scientist - Gamers <br>
 </br>
 </br>
 </br>
+</p>
 
 <p align="center">	
 	<a href="https://github.com/burjoawl"><img src="https://img.shields.io/badge/GitHub-636e72?style=flat-square" alt="GitHub"></a>
