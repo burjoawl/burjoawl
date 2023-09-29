@@ -1,6 +1,5 @@
-<div style="text-align: center;">
+<div style="text-align: left;">
   <h1>
-    <img height="150" width="250" alt="GIF" src="assets/selamat datang.gif">
     <br>
     Selamat Datang! <br>
 	Welcome!
