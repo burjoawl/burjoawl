@@ -1,18 +1,25 @@
 <h1 align="center">
-Selamat Datang!
+<img width="350" alt="GIF" align="center" src="https://cdn.7tv.app/emote/645e4c5b7fa1a5e0ee9829fe/2x.gif"><br>
+Selamat Datang! 
+
+Welcome!
+</br>
 </h1>
 
+
+</br>
 <img hight="500" width="300" alt="GIF" align="right" src="https://media.discordapp.net/attachments/733644155804188712/1139583827853975562/love_discord_logo1.gif">
 </br>
 </br>
 </br>
 </br>
 </br>
+<font size="5">
 My name is Farhan, I'm a Data Scientist📝. <br>
 I'm From Indonesia and currently stay in Jakarta. <br>
 Geologist - Junior Data Scientist - Gamers <br>
+</font>
 
-</br>
 </br>
 </br>
 </br>
@@ -47,10 +54,11 @@ Geologist - Junior Data Scientist - Gamers <br>
 	+ [The Look](https://github.com/burjoawl/Burrs_Portofolio/tree/main/Assignments/The%20Look)
 - Side Project
 	+ [Discord Bot](https://github.com/burjoawl/Discord_Bot)
+
+	
 </details>
 <br>
 
-<img hight="500" width="300" alt="GIF2" align="center" src="https://imgur.com/NQinKJB">
 
 
 <!--
