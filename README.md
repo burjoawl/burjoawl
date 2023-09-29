@@ -1,5 +1,4 @@
 <h1 align="center">
-<img hight="350" width="350" alt="GIF" align="center" src="assets/1.gif"><br>
 Selamat Datang! 
 
 Welcome!
@@ -8,7 +7,7 @@ Welcome!
 
 
 </br>
-<img hight="500" width="300" alt="GIF2" align="right" src="assets/2.gif">
+<img hight="500" width="300" alt="GIF2" align="right" src="assets/1.gif">
 </br>
 </br>
 </br>
