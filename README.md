@@ -1,11 +1,12 @@
-<h1 align="center">
-<img hight="350" width="350" alt="GIF" align="center" src="assets/selamat datang.gif">
-<br>
-Selamat Datang! 
-
-Welcome!
-</br>
-</h1>
+<div style="text-align: center;">
+  <h1>
+    <img height="150" width="250" alt="GIF" src="assets/selamat datang.gif">
+    <br>
+    Selamat Datang! <br>
+	Welcome!
+    <br>
+  </h1>
+</div>
 
 
 </br>
