@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width="350" alt="GIF" align="center" src="https://cdn.7tv.app/emote/645e4c5b7fa1a5e0ee9829fe/2x.gif"><br>
+<img width="350" alt="GIF" align="center" src="assets/1.gif"><br>
 Selamat Datang! 
 
 Welcome!
@@ -8,7 +8,7 @@ Welcome!
 
 
 </br>
-<img hight="500" width="300" alt="GIF" align="right" src="https://media.discordapp.net/attachments/733644155804188712/1139583827853975562/love_discord_logo1.gif">
+<img hight="500" width="300" alt="GIF" align="right" src="assets/2.gif">
 </br>
 </br>
 </br>
@@ -55,7 +55,7 @@ Geologist - Junior Data Scientist - Gamers <br>
 - Side Project
 	+ [Discord Bot](https://github.com/burjoawl/Discord_Bot)
 
-	
+
 </details>
 <br>
 
